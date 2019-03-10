@@ -4,7 +4,7 @@
     "port": 47052,
     "url": "mongodb+srv://newUser:********@cluster0-clasg.mongodb.net/books?retryWrites=true",
     "database": "api_books",
-    "password": "1234Abcd",
+    "password": "********",
     "name": "db",
     "user": "newUser",
     "connector": "mongodb"
