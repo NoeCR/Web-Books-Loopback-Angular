@@ -2,7 +2,7 @@
   "db": {
     "host": "80.173.151.233/32",
     "port": 47052,
-    "url": "mongodb+srv://newUser:1234Abcd@cluster0-clasg.mongodb.net/books?retryWrites=true",
+    "url": "mongodb+srv://newUser:********@cluster0-clasg.mongodb.net/books?retryWrites=true",
     "database": "api_books",
     "password": "1234Abcd",
     "name": "db",
